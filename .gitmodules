@@ -1,0 +1,3 @@
+[submodule "second-wind-assets"]
+	path = second-wind-assets
+	url = https://github.com/emiyl/second-wind-assets.git
