@@ -1,3 +1,6 @@
 [submodule "second-wind-assets"]
 	path = second-wind-assets
 	url = https://github.com/emiyl/second-wind-assets.git
+[submodule "second-wind-public"]
+	path = second-wind-public
+	url = https://github.com/emiyl/second-wind-public.git
