@@ -18,4 +18,4 @@ For complete guides to homebrew and custom firmware for other devices, check out
 
 You can install this mod either on a homebrewed Wii U or on a Windows PC using Cemu, a Wii U emulator. This guide will take you through the necessary steps to prepare your console or PC for modding.
 
-<div style="position: relative; display: block; height: 0; padding: 0; overflow: hidden; padding-bottom: 56.25%;"> <iframe style="position: absolute; top: 0; left: 0; bottom: 0; height: 100%; width: 100%; border: 0;" src="https://www.youtube.com/embed/dS88dToGvt4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen/></div>
+<YoutubeVideo url="https://www.youtube.com/embed/dS88dToGvt4" />
